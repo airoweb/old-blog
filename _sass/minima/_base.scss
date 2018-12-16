@@ -260,3 +260,28 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+.highlighter-rouge .highlight {
+  background: transparent !important;
+}
+.highlighter-rouge {
+  background: url(../macos.png) no-repeat 12px 12px / 64px  !important;
+  background-color: #292c36 !important;
+  border-radius: 12px;
+  box-shadow: 0px 16px 18px 1px #c5c5c5;
+  margin-bottom: 46px;
+}
+pre {
+  padding: 40px 12px 20px 12px;
+}
+pre, code {
+  font-size: 15px;
+  border: 0 none;
+  border-radius: 3px;
+  background-color: transparent;
+}
+pre > code {
+  color: #fff;
+}
+.highlight .nt {
+  color: #bcbcbc !important;
+}
