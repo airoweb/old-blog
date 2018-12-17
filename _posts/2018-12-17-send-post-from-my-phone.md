@@ -8,6 +8,6 @@ meta: "mobile phone"
 
 I am trying to send a post and commit it from my phone.
 
-'''html
+```html
 <a href="http://airoweb.com">My blog</a>
-'''
+```
