@@ -6,11 +6,13 @@ author: "Behzad Amirinezhad"
 meta: "Javascript"
 ---
 
-I am trying to send a post and commit it from my phone.
+You have need HTML code like this:
 
 ```html
 <div class="fixme"></div>
 ```
+
+and then this javascript to apply css:
 
 ```javascript
 var fixmeTop = $('.fixme').offset().top;
