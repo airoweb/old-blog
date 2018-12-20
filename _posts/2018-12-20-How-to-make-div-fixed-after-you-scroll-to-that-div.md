@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "How to make div fixed after you scroll to that div?"
