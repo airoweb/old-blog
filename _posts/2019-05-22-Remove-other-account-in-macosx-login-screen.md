@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Remove Other account from MacOS X's login screen"
